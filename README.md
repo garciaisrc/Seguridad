@@ -1,2 +1,2 @@
 # Seguridad
-MVC en sprintboot para servicio de seguridad 
+MVC en springboot para servicio de seguridad 
